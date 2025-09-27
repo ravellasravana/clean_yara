@@ -124,12 +124,4 @@ This decision agent is particularly suited for:
 - Resource allocation optimization
 - Feature selection analysis
 
-## Author
 
-Your Name
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
-
-## License
-
-MIT License
